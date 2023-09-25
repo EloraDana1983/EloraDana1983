@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/weNbhGZ.png](https://facialix.com/wp-content/uploads/2023/07/image-14-768x219.png">
+<img src="https://facialix.com/wp-content/uploads/2023/07/image-14-768x219.png">
 # 💫 About Me:
    ¡Hey 👋! Soy María 👨🏻‍💻
    Soy una desarrolladora Full Stack  joven y apasionada encantada con cada nuevo desafío.
