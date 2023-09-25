@@ -5,8 +5,8 @@
 
 # 💫 About Me:
    ¡Hey 👋! Soy María 👨🏻‍💻
-   Soy una desarrolladora Full Stack  joven y apasionada encantada con cada nuevo desafío.
-   ¡Revisa mi contenido 👇!
+   Soy una desarrolladora Full Stack  joven y con ganas de experimentar y superar nuevos desafios.
+   ¡Revisa mi contenido y evolución 👇!
 
 
 ## 🌐 Socials:
